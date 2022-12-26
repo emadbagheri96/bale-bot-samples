@@ -18,7 +18,7 @@ The functions return the full JSON body of the actual API call to Bale.
 
 ### Register for an Access Token
 
-You'll need to create your bot by [@Bot_Father](https://web.bale.ai/), Bot_Father, give you a Token.
+You'll need to create your bot by [@botfather](https://web.bale.ai/), botfather, give you a Token.
 
 ### Installation
 
